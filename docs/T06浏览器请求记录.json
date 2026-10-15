@@ -1,0 +1,242 @@
+{
+  "captured_at": "2026-09-29T10:54:07.625Z",
+  "generated_by": "MCP browser E2E（等效复刻 web/e2e/workflow.spec.ts 全部断言）",
+  "reproduction_command": "npm --prefix web run e2e:cdp",
+  "fixtures": [
+    "tests/fixtures/演练规则误报基线.json",
+    "tests/fixtures/演练规则误报回归.json"
+  ],
+  "viewport": {
+    "width": 375,
+    "height": 900
+  },
+  "report_metrics": {
+    "total_cases": 2,
+    "confirmed_regressions": 1,
+    "confirmed_non_regressions": 1
+  },
+  "status": "通过",
+  "request_count": 24,
+  "response_count": 24,
+  "non_local_requests": [],
+  "requests": [
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:8766/",
+      "resourceType": "document"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:8766/assets/app.js",
+      "resourceType": "script"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:8766/assets/style.css",
+      "resourceType": "stylesheet"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:8766/api/v1/projects",
+      "resourceType": "xhr"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:8766/api/v1/projects/1f65c6e7-21f2-4b7e-afc9-9daddf692d7f/baseline-batches",
+      "resourceType": "xhr"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:8766/api/v1/projects/1f65c6e7-21f2-4b7e-afc9-9daddf692d7f/regression-batches",
+      "resourceType": "xhr"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:8766/api/v1/projects/1f65c6e7-21f2-4b7e-afc9-9daddf692d7f/reports",
+      "resourceType": "xhr"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:8766/api/v1/regression-batches/8cec8e1d-9d59-4b25-afef-0774c5616fd6",
+      "resourceType": "xhr"
+    },
+    {
+      "method": "POST",
+      "url": "http://127.0.0.1:8766/api/v1/regression-batches/8cec8e1d-9d59-4b25-afef-0774c5616fd6/basis-confirmation",
+      "resourceType": "xhr"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:8766/api/v1/regression-batches/8cec8e1d-9d59-4b25-afef-0774c5616fd6",
+      "resourceType": "xhr"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:8766/api/v1/projects/1f65c6e7-21f2-4b7e-afc9-9daddf692d7f/baseline-batches",
+      "resourceType": "xhr"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:8766/api/v1/projects/1f65c6e7-21f2-4b7e-afc9-9daddf692d7f/regression-batches",
+      "resourceType": "xhr"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:8766/api/v1/projects/1f65c6e7-21f2-4b7e-afc9-9daddf692d7f/reports",
+      "resourceType": "xhr"
+    },
+    {
+      "method": "PUT",
+      "url": "http://127.0.0.1:8766/api/v1/regression-batches/8cec8e1d-9d59-4b25-afef-0774c5616fd6/cases/5ryU57uDL-S6uuW3pee6oOato-inhOWImQ/decision",
+      "resourceType": "xhr"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:8766/api/v1/regression-batches/8cec8e1d-9d59-4b25-afef-0774c5616fd6",
+      "resourceType": "xhr"
+    },
+    {
+      "method": "PUT",
+      "url": "http://127.0.0.1:8766/api/v1/regression-batches/8cec8e1d-9d59-4b25-afef-0774c5616fd6/cases/5ryU57uDL-inhOWImeato-W4uA/decision",
+      "resourceType": "xhr"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:8766/api/v1/regression-batches/8cec8e1d-9d59-4b25-afef-0774c5616fd6",
+      "resourceType": "xhr"
+    },
+    {
+      "method": "POST",
+      "url": "http://127.0.0.1:8766/api/v1/regression-batches/8cec8e1d-9d59-4b25-afef-0774c5616fd6/report",
+      "resourceType": "xhr"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:8766/api/v1/regression-batches/8cec8e1d-9d59-4b25-afef-0774c5616fd6",
+      "resourceType": "xhr"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:8766/api/v1/projects/1f65c6e7-21f2-4b7e-afc9-9daddf692d7f/baseline-batches",
+      "resourceType": "xhr"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:8766/api/v1/projects/1f65c6e7-21f2-4b7e-afc9-9daddf692d7f/regression-batches",
+      "resourceType": "xhr"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:8766/api/v1/projects/1f65c6e7-21f2-4b7e-afc9-9daddf692d7f/reports",
+      "resourceType": "xhr"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:8766/api/v1/reports/7ccdfb28-2041-4404-89c8-2bbcd4767b02",
+      "resourceType": "xhr"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:8766/api/v1/reports/7ccdfb28-2041-4404-89c8-2bbcd4767b02",
+      "resourceType": "xhr"
+    }
+  ],
+  "responses": [
+    {
+      "status": 200,
+      "url": "http://127.0.0.1:8766/"
+    },
+    {
+      "status": 200,
+      "url": "http://127.0.0.1:8766/assets/app.js"
+    },
+    {
+      "status": 200,
+      "url": "http://127.0.0.1:8766/assets/style.css"
+    },
+    {
+      "status": 200,
+      "url": "http://127.0.0.1:8766/api/v1/projects"
+    },
+    {
+      "status": 200,
+      "url": "http://127.0.0.1:8766/api/v1/projects/1f65c6e7-21f2-4b7e-afc9-9daddf692d7f/baseline-batches"
+    },
+    {
+      "status": 200,
+      "url": "http://127.0.0.1:8766/api/v1/projects/1f65c6e7-21f2-4b7e-afc9-9daddf692d7f/regression-batches"
+    },
+    {
+      "status": 200,
+      "url": "http://127.0.0.1:8766/api/v1/projects/1f65c6e7-21f2-4b7e-afc9-9daddf692d7f/reports"
+    },
+    {
+      "status": 200,
+      "url": "http://127.0.0.1:8766/api/v1/regression-batches/8cec8e1d-9d59-4b25-afef-0774c5616fd6"
+    },
+    {
+      "status": 200,
+      "url": "http://127.0.0.1:8766/api/v1/regression-batches/8cec8e1d-9d59-4b25-afef-0774c5616fd6/basis-confirmation"
+    },
+    {
+      "status": 200,
+      "url": "http://127.0.0.1:8766/api/v1/regression-batches/8cec8e1d-9d59-4b25-afef-0774c5616fd6"
+    },
+    {
+      "status": 200,
+      "url": "http://127.0.0.1:8766/api/v1/projects/1f65c6e7-21f2-4b7e-afc9-9daddf692d7f/baseline-batches"
+    },
+    {
+      "status": 200,
+      "url": "http://127.0.0.1:8766/api/v1/projects/1f65c6e7-21f2-4b7e-afc9-9daddf692d7f/regression-batches"
+    },
+    {
+      "status": 200,
+      "url": "http://127.0.0.1:8766/api/v1/projects/1f65c6e7-21f2-4b7e-afc9-9daddf692d7f/reports"
+    },
+    {
+      "status": 200,
+      "url": "http://127.0.0.1:8766/api/v1/regression-batches/8cec8e1d-9d59-4b25-afef-0774c5616fd6/cases/5ryU57uDL-S6uuW3pee6oOato-inhOWImQ/decision"
+    },
+    {
+      "status": 200,
+      "url": "http://127.0.0.1:8766/api/v1/regression-batches/8cec8e1d-9d59-4b25-afef-0774c5616fd6"
+    },
+    {
+      "status": 200,
+      "url": "http://127.0.0.1:8766/api/v1/regression-batches/8cec8e1d-9d59-4b25-afef-0774c5616fd6/cases/5ryU57uDL-inhOWImeato-W4uA/decision"
+    },
+    {
+      "status": 200,
+      "url": "http://127.0.0.1:8766/api/v1/regression-batches/8cec8e1d-9d59-4b25-afef-0774c5616fd6"
+    },
+    {
+      "status": 201,
+      "url": "http://127.0.0.1:8766/api/v1/regression-batches/8cec8e1d-9d59-4b25-afef-0774c5616fd6/report"
+    },
+    {
+      "status": 200,
+      "url": "http://127.0.0.1:8766/api/v1/regression-batches/8cec8e1d-9d59-4b25-afef-0774c5616fd6"
+    },
+    {
+      "status": 200,
+      "url": "http://127.0.0.1:8766/api/v1/projects/1f65c6e7-21f2-4b7e-afc9-9daddf692d7f/baseline-batches"
+    },
+    {
+      "status": 200,
+      "url": "http://127.0.0.1:8766/api/v1/projects/1f65c6e7-21f2-4b7e-afc9-9daddf692d7f/regression-batches"
+    },
+    {
+      "status": 200,
+      "url": "http://127.0.0.1:8766/api/v1/projects/1f65c6e7-21f2-4b7e-afc9-9daddf692d7f/reports"
+    },
+    {
+      "status": 200,
+      "url": "http://127.0.0.1:8766/api/v1/reports/7ccdfb28-2041-4404-89c8-2bbcd4767b02"
+    },
+    {
+      "status": 200,
+      "url": "http://127.0.0.1:8766/api/v1/reports/7ccdfb28-2041-4404-89c8-2bbcd4767b02"
+    }
+  ]
+}

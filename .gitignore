@@ -1,0 +1,45 @@
+# 本地交接文件
+/HANDOFF.md
+**/HANDOFF.md
+
+# 本地环境与临时文件
+.env
+.env.*
+!.env.example
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python 与测试缓存
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+/data/build-temp/
+/data/node-compile-cache/
+/.superpowers/
+/.dsh-pytest-tmp/
+/modeprobe-*/
+/pytest-of-*/
+
+# 前端依赖与构建结果
+node_modules/
+dist/
+/web/test-results/
+/web/playwright-report/
+/web/*.tsbuildinfo
+
+# 本机权威数据及 SQLite 辅助文件
+*.sqlite
+*.sqlite3
+*.db
+*.sqlite-wal
+*.sqlite-shm
+*.sqlite3-wal
+*.sqlite3-shm
+*.db-wal
+*.db-shm

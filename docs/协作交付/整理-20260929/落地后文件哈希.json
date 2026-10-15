@@ -1,0 +1,562 @@
+{
+  "落地日期": "2026-09-30",
+  "项目": "AI应用评测脚手架",
+  "预落地输入快照": {
+    "总数": 611,
+    "未触碰且哈希一致": 508,
+    "移动且原哈希一致": 78,
+    "覆盖候选且候选哈希匹配": 25
+  },
+  "归档": {
+    "审核记录": 76,
+    "协作记录": 2,
+    "文件": [
+      {
+        "原路径": "审核任务-第1轮.md",
+        "现路径": "docs/审核记录/审核任务-第1轮.md",
+        "SHA256": "5A91806CD915473E0AD1EF11A682C28C7EE7CD912B4B01DEEFC80DCD283736F2"
+      },
+      {
+        "原路径": "审核任务-第2轮.md",
+        "现路径": "docs/审核记录/审核任务-第2轮.md",
+        "SHA256": "18383A8FCFE415B80A8CEB4354F6EF7C228764C55E0D54379C79AD6A5A9F9EAA"
+      },
+      {
+        "原路径": "审核任务-第3轮.md",
+        "现路径": "docs/审核记录/审核任务-第3轮.md",
+        "SHA256": "5C6247CFA34483D8CB62A99B1C111F9296B575C308110ED379D6DC0FD79A4D00"
+      },
+      {
+        "原路径": "审核任务-Qoder.md",
+        "现路径": "docs/审核记录/审核任务-Qoder.md",
+        "SHA256": "1CBDA86B67521EF0B143AE6C8273FD781DEF5331684DBECA8AC3D5E3BCA322E2"
+      },
+      {
+        "原路径": "审核任务-Qoder-草案0.13.md",
+        "现路径": "docs/审核记录/审核任务-Qoder-草案0.13.md",
+        "SHA256": "E84E028614FE9A71E8105A0E269F0D14A88DA9E14EC51EA6359ACC374556E2AD"
+      },
+      {
+        "原路径": "审核任务-Qoder-草案0.14.md",
+        "现路径": "docs/审核记录/审核任务-Qoder-草案0.14.md",
+        "SHA256": "922C570587311E5B8676DA4C4BBBD754C2BC7AD8755205DF20B5EF8153ECB2F4"
+      },
+      {
+        "原路径": "审核任务-Qoder-草案0.19.md",
+        "现路径": "docs/审核记录/审核任务-Qoder-草案0.19.md",
+        "SHA256": "7D5B4A168EBCCAFBB4A47708CC2D077D6C34A11B5F8DA4B62249CD4ECD634EFA"
+      },
+      {
+        "原路径": "审核任务-Qoder-需求1.0定稿候选.md",
+        "现路径": "docs/审核记录/审核任务-Qoder-需求1.0定稿候选.md",
+        "SHA256": "C624F42522B82C1931E11A8C315CB4BA575CC51B8DB40A1B11F020607565CE21"
+      },
+      {
+        "原路径": "审核任务-Qoder-需求1.0定稿.md",
+        "现路径": "docs/审核记录/审核任务-Qoder-需求1.0定稿.md",
+        "SHA256": "8AD3FBDFEBA4954299D5CF428E8FFC3F8606D4226B102D21B156E4F1A24D9DE9"
+      },
+      {
+        "原路径": "审核任务-ZCode-草案0.19.md",
+        "现路径": "docs/审核记录/审核任务-ZCode-草案0.19.md",
+        "SHA256": "12BC7BF10CAD85E45F4C1F4B399B9422F621396A5F00A9381F78676FE796860C"
+      },
+      {
+        "原路径": "审核任务-Qoder-架构0.1.md",
+        "现路径": "docs/审核记录/审核任务-Qoder-架构0.1.md",
+        "SHA256": "4AC89BC735E609F8585D481392A0FD47DDB921B5ECC9857331D271C869FD8AEB"
+      },
+      {
+        "原路径": "审核任务-Qoder-架构0.2.md",
+        "现路径": "docs/审核记录/审核任务-Qoder-架构0.2.md",
+        "SHA256": "7DFEB4A8D5495A4CB93439D891ECAC888DB62EEC68ACA79CBBB27C4C91A258B5"
+      },
+      {
+        "原路径": "审核任务-CodeBuddy-架构1.0定稿候选.md",
+        "现路径": "docs/审核记录/审核任务-CodeBuddy-架构1.0定稿候选.md",
+        "SHA256": "A273607D063EF3BC1514BDDDE65241A11F79E7A7C6BBD7BEFBD7262F4AEB18A8"
+      },
+      {
+        "原路径": "审核任务-CodeBuddy-架构第三轮补充.md",
+        "现路径": "docs/审核记录/审核任务-CodeBuddy-架构第三轮补充.md",
+        "SHA256": "D2297EE854BE6105799380E4856BF3C6881185B3DE3BC143B918008D1106687E"
+      },
+      {
+        "原路径": "审核任务-CodeBuddy-开发计划0.1.md",
+        "现路径": "docs/审核记录/审核任务-CodeBuddy-开发计划0.1.md",
+        "SHA256": "1C0E8F7FD591EB75AAA1CDF4CE4C6E56BCA399A098879EADF477207D81741D44"
+      },
+      {
+        "原路径": "审核任务-CodeBuddy-开发计划0.2定向复核.md",
+        "现路径": "docs/审核记录/审核任务-CodeBuddy-开发计划0.2定向复核.md",
+        "SHA256": "A28EFE130F86B1422A260FC44EDC23E6A86D05353D8CBC5E5DF734C6B7F59CBF"
+      },
+      {
+        "原路径": "审核任务-Qoder-T02初版.md",
+        "现路径": "docs/审核记录/审核任务-Qoder-T02初版.md",
+        "SHA256": "5C15C123DA8770AD8D8982DE55B71C5225806F392709EEA4C64223FE07682FFD"
+      },
+      {
+        "原路径": "审核任务-Qoder-T02复核.md",
+        "现路径": "docs/审核记录/审核任务-Qoder-T02复核.md",
+        "SHA256": "29622DBC2E56669AD197F4106C817C6473A7361B2D68C440CAEC077B82E5C9C8"
+      },
+      {
+        "原路径": "审核任务-Qoder-T02最终复核.md",
+        "现路径": "docs/审核记录/审核任务-Qoder-T02最终复核.md",
+        "SHA256": "903BEDDAE91681DE362F99AEA565402F887E87C278DDD08E3D5D4DD05786ADA4"
+      },
+      {
+        "原路径": "审核任务-Qoder-T03初版.md",
+        "现路径": "docs/审核记录/审核任务-Qoder-T03初版.md",
+        "SHA256": "215A805498175EBFB1902A99AED5884706AD01836E9FFB3277DC68E436A9BE71"
+      },
+      {
+        "原路径": "审核任务-Qoder-T03复核.md",
+        "现路径": "docs/审核记录/审核任务-Qoder-T03复核.md",
+        "SHA256": "6394DEC2CACCF1DDDAF1F9EE17A5CA5C81F02663FFB7B7AFDC6AA9B36A430BBC"
+      },
+      {
+        "原路径": "审核任务-Qoder-T04初版.md",
+        "现路径": "docs/审核记录/审核任务-Qoder-T04初版.md",
+        "SHA256": "99D6A572419CC4D2EB3AF9ECE78E5F0DE5FA7A1D649CA125DB7A187565EBFB96"
+      },
+      {
+        "原路径": "审核任务-Qoder-T04定向复核.md",
+        "现路径": "docs/审核记录/审核任务-Qoder-T04定向复核.md",
+        "SHA256": "7989ABDF84781C9DAA87B167E5DD5F2878C7F4FB7F54B0C6FE59DB893CAA3DAB"
+      },
+      {
+        "原路径": "审核任务-Qoder-T05当前版本.md",
+        "现路径": "docs/审核记录/审核任务-Qoder-T05当前版本.md",
+        "SHA256": "D980848FB55079693357AED543ABC05867040772016DE29284B53A92CE8DC2CB"
+      },
+      {
+        "原路径": "审核任务-Qoder-T05修正核验.md",
+        "现路径": "docs/审核记录/审核任务-Qoder-T05修正核验.md",
+        "SHA256": "CF8BAC021C8D5D3D9434ADF2CD6BEB04A14B65530569256DEF14FA3961A77433"
+      },
+      {
+        "原路径": "审核任务-Qoder-T05最终核验.md",
+        "现路径": "docs/审核记录/审核任务-Qoder-T05最终核验.md",
+        "SHA256": "C758D9D3900B6D5518EDEE9B0CAF8B1BA0C06A3726ACD70D0D8D73E7EC732341"
+      },
+      {
+        "原路径": "审核任务-Qoder-T05报告链闭环核验.md",
+        "现路径": "docs/审核记录/审核任务-Qoder-T05报告链闭环核验.md",
+        "SHA256": "F3A43BCEC6D6D149B1B3D126F9D49AE65970ED9879208BA1CA257B86FF319157"
+      },
+      {
+        "原路径": "审核任务-Qoder-T06当前版本.md",
+        "现路径": "docs/审核记录/审核任务-Qoder-T06当前版本.md",
+        "SHA256": "2C606515569CEE965B6778848656825DE420A23B4A9B243E7DCD54DDB340BAC7"
+      },
+      {
+        "原路径": "审核意见-第1轮.md",
+        "现路径": "docs/审核记录/审核意见-第1轮.md",
+        "SHA256": "EFA194089925C90CE2F0F290DFC0A79297566B6E169A989B9346395739EBCBC5"
+      },
+      {
+        "原路径": "审核意见-第2轮.md",
+        "现路径": "docs/审核记录/审核意见-第2轮.md",
+        "SHA256": "67EEDBD76676781E528531F082BF84E308D9BB0F9C56BC0A398861340C11DE87"
+      },
+      {
+        "原路径": "审核意见-第3轮.md",
+        "现路径": "docs/审核记录/审核意见-第3轮.md",
+        "SHA256": "FAD9D350CA1960D16625C3F074156F7886B52AE1F3405FCD38B5BD83539C36D3"
+      },
+      {
+        "原路径": "审核意见-Qoder.md",
+        "现路径": "docs/审核记录/审核意见-Qoder.md",
+        "SHA256": "B3773D9E7C3634272EBE7AF394EF66ABB98CB39C38F7C39E5BC159CFC1341531"
+      },
+      {
+        "原路径": "审核意见-Qoder-草案0.13.md",
+        "现路径": "docs/审核记录/审核意见-Qoder-草案0.13.md",
+        "SHA256": "DDF51FD0DC583118075AADFB5B2FF92EC92E6CE04EA3A8670C77C535B931003F"
+      },
+      {
+        "原路径": "审核意见-Qoder-草案0.14.md",
+        "现路径": "docs/审核记录/审核意见-Qoder-草案0.14.md",
+        "SHA256": "7A5F4C7142F7FD68C55DA79B97138F42B1FB71A9516D3A8A7210129206383DAA"
+      },
+      {
+        "原路径": "审核意见-Qoder-草案0.19.md",
+        "现路径": "docs/审核记录/审核意见-Qoder-草案0.19.md",
+        "SHA256": "600184EAB399CF07B4CCF33D652626822ECA3DAAC55DB82447618A916D2005D1"
+      },
+      {
+        "原路径": "审核意见-Qoder-需求1.0定稿候选.md",
+        "现路径": "docs/审核记录/审核意见-Qoder-需求1.0定稿候选.md",
+        "SHA256": "5F59C3271BB96041519F6F55FB255073C2D1666E205277E3AF5C8725426C9D58"
+      },
+      {
+        "原路径": "审核意见-Qoder-需求1.0定稿.md",
+        "现路径": "docs/审核记录/审核意见-Qoder-需求1.0定稿.md",
+        "SHA256": "4EDCF83C2DF7D0D8E7A9BC6FAE6CC4AC4474E38446765619CAE92EFD1C5AC91B"
+      },
+      {
+        "原路径": "审核意见-ZCode-草案0.17.md",
+        "现路径": "docs/审核记录/审核意见-ZCode-草案0.17.md",
+        "SHA256": "FB6815F65CA77C337AE7C075D62290C8D4A6230AC98539CFBAE916BBFD75FF10"
+      },
+      {
+        "原路径": "审核意见-ZCode-草案0.18.md",
+        "现路径": "docs/审核记录/审核意见-ZCode-草案0.18.md",
+        "SHA256": "F333169D088C2EB046B964D57F41AB21713AFAAAC75AF40EEAA30A762A7D97B0"
+      },
+      {
+        "原路径": "审核意见-Qoder-架构0.1.md",
+        "现路径": "docs/审核记录/审核意见-Qoder-架构0.1.md",
+        "SHA256": "826E09E22FE369EDAFEF730D3CE397C1EEFFB953DED8B3095C0C87AC9FDCB56B"
+      },
+      {
+        "原路径": "审核意见-Qoder-架构0.2.md",
+        "现路径": "docs/审核记录/审核意见-Qoder-架构0.2.md",
+        "SHA256": "AB7ACB487D7F3211FEFE16BD869F8D72848BBFB485A444F66C0A9B8D70AA1669"
+      },
+      {
+        "原路径": "审核意见-CodeBuddy-架构1.0定稿候选.md",
+        "现路径": "docs/审核记录/审核意见-CodeBuddy-架构1.0定稿候选.md",
+        "SHA256": "236702493F3731601BF0037D759FDFB26F60BDE0FC61B98AAF79F084D56C0186"
+      },
+      {
+        "原路径": "审核意见-CodeBuddy-开发计划0.1.md",
+        "现路径": "docs/审核记录/审核意见-CodeBuddy-开发计划0.1.md",
+        "SHA256": "01D06E3B39B615298189BA4F9CB9BF8C95D26A7F44D12B8471D9F300AC463220"
+      },
+      {
+        "原路径": "审核意见-CodeBuddy-开发计划0.2定向复核.md",
+        "现路径": "docs/审核记录/审核意见-CodeBuddy-开发计划0.2定向复核.md",
+        "SHA256": "DBB38BE40DB08140F14F94348703FC1F79E55835C1D51C8A5268368503C5FB3F"
+      },
+      {
+        "原路径": "审核意见-Qoder-T02初版.md",
+        "现路径": "docs/审核记录/审核意见-Qoder-T02初版.md",
+        "SHA256": "9ED962C17114C1F8FB5E2C671B0EF9BAEFCB881266DB0D945E18657E46EA5AF7"
+      },
+      {
+        "原路径": "审核意见-Qoder-T02复核.md",
+        "现路径": "docs/审核记录/审核意见-Qoder-T02复核.md",
+        "SHA256": "85F7F621607B74AEB41D36FB7C1F55290A8DAA9C77A2D4ED59E9F2F296AC464E"
+      },
+      {
+        "原路径": "审核意见-Qoder-T02最终复核.md",
+        "现路径": "docs/审核记录/审核意见-Qoder-T02最终复核.md",
+        "SHA256": "2E443A57CB367FE12ABAA62617B81CD1ACF87C3E3A5FC7A0BCF5D740FF567A19"
+      },
+      {
+        "原路径": "审核意见-Qoder-T03初版.md",
+        "现路径": "docs/审核记录/审核意见-Qoder-T03初版.md",
+        "SHA256": "0736F6401B8E4DB415A80A188D49B3CBA0CAA6EED73C1881A39AA7F9A1844585"
+      },
+      {
+        "原路径": "审核意见-Qoder-T03复核.md",
+        "现路径": "docs/审核记录/审核意见-Qoder-T03复核.md",
+        "SHA256": "E45B51C1F55264525B37326F542C6AEFFF0293008B75231F679278468DB34218"
+      },
+      {
+        "原路径": "审核意见-Qoder-T04初版.md",
+        "现路径": "docs/审核记录/审核意见-Qoder-T04初版.md",
+        "SHA256": "064683CC5070B10823A376679A55B216B8FAFDFA70EE3D8B96C6CB526A7E6328"
+      },
+      {
+        "原路径": "审核意见-Qoder-T04定向复核.md",
+        "现路径": "docs/审核记录/审核意见-Qoder-T04定向复核.md",
+        "SHA256": "E6218D981B212FE5B43E80604F4CF7F92E27EFF86CC10551E4B506B22CDA5631"
+      },
+      {
+        "原路径": "审核意见-Luna-T04当前版本.md",
+        "现路径": "docs/审核记录/审核意见-Luna-T04当前版本.md",
+        "SHA256": "66669A4E9905FA7B6F4640A217D5F4410C4A6757953B55DCD42E7B8B32849741"
+      },
+      {
+        "原路径": "审核意见-Luna-T05初版.md",
+        "现路径": "docs/审核记录/审核意见-Luna-T05初版.md",
+        "SHA256": "B19C24CCF58B443B5FD8C6A10266015A3AC5EA6AF9E3F462D76187FA291D0258"
+      },
+      {
+        "原路径": "审核意见-Luna-T05复核.md",
+        "现路径": "docs/审核记录/审核意见-Luna-T05复核.md",
+        "SHA256": "615B1655E6229896BC628AD0312D749F75D83912C7022C979EBDCDC9FE637319"
+      },
+      {
+        "原路径": "审核意见-Qoder-T05当前版本.md",
+        "现路径": "docs/审核记录/审核意见-Qoder-T05当前版本.md",
+        "SHA256": "CABCF82B525D6FF9A965709781337FD9899D4D9F0B59C5FA27B52A3D67261CE0"
+      },
+      {
+        "原路径": "审核意见-Qoder-T05修正核验.md",
+        "现路径": "docs/审核记录/审核意见-Qoder-T05修正核验.md",
+        "SHA256": "771CA1C8C6731C22FA4E24ED2243D79A1B4DE2A23206B1B56A0BEA11F1561746"
+      },
+      {
+        "原路径": "审核意见-Qoder-T05最终核验.md",
+        "现路径": "docs/审核记录/审核意见-Qoder-T05最终核验.md",
+        "SHA256": "A78761F88E75AAA8B29CA4F5FE383A0268433BF6981192058BEECAA4D228A7F0"
+      },
+      {
+        "原路径": "审核意见-Qoder-T05报告链闭环核验.md",
+        "现路径": "docs/审核记录/审核意见-Qoder-T05报告链闭环核验.md",
+        "SHA256": "F1ED1D4EB8FF023DC87FD97863D7C1C4B5631974C41D4B9D071D36FE0746F14A"
+      },
+      {
+        "原路径": "审核处理-第1轮.md",
+        "现路径": "docs/审核记录/审核处理-第1轮.md",
+        "SHA256": "BEA7D34D944F9A6ACD09F6D0E5B49DC01EA4B85855A36E2A788F2329B839CAD5"
+      },
+      {
+        "原路径": "审核处理-第2轮.md",
+        "现路径": "docs/审核记录/审核处理-第2轮.md",
+        "SHA256": "8DB10FD2085643EB946AB58175335A354AABAA3726501B624B84B1911126B51D"
+      },
+      {
+        "原路径": "审核处理-第3轮.md",
+        "现路径": "docs/审核记录/审核处理-第3轮.md",
+        "SHA256": "A5A8D95F80C0D869C10888D5D9EB6C1DC3F315ADA443B95C6544F88F448AE844"
+      },
+      {
+        "原路径": "审核处理-Qoder.md",
+        "现路径": "docs/审核记录/审核处理-Qoder.md",
+        "SHA256": "191A95910EB23745B2983E686E327A5FA97B7F757F10348934E65792BEAFD725"
+      },
+      {
+        "原路径": "审核处理-Qoder-T02初版.md",
+        "现路径": "docs/审核记录/审核处理-Qoder-T02初版.md",
+        "SHA256": "1ED6AE99EC92DC29EDD67C481C8D752F804F4418D33708099AF2E56EA0AC46A2"
+      },
+      {
+        "原路径": "审核处理-Qoder-T03初版.md",
+        "现路径": "docs/审核记录/审核处理-Qoder-T03初版.md",
+        "SHA256": "23EBEDCCD28A73B050A5512A8772C7246F4C9E87B35BACBB92F7CFF3EBCEACAA"
+      },
+      {
+        "原路径": "审核补充-Codex-T05焦点样式引证.md",
+        "现路径": "docs/审核记录/审核补充-Codex-T05焦点样式引证.md",
+        "SHA256": "6928FFCF2F1D6C9DA6F84B18178C3D55B19314F2CD49F7E71F53AB5A235D47CB"
+      },
+      {
+        "原路径": "审核补充-CodeBuddy-架构第三轮-Qoder四项.md",
+        "现路径": "docs/审核记录/审核补充-CodeBuddy-架构第三轮-Qoder四项.md",
+        "SHA256": "BAFEC1115AE9EA3389E89866CA60CD30D8C1CC415969CC91615925BCB8EDE093"
+      },
+      {
+        "原路径": "审核清单-Qoder-T04.json",
+        "现路径": "docs/审核记录/审核清单-Qoder-T04.json",
+        "SHA256": "9687A22C04FF35A622700C94CF9F2D1EF63D4AA103658ECF8BC870F769AC0363"
+      },
+      {
+        "原路径": "docs/审核任务-Qoder-T07-前端视觉改版.md",
+        "现路径": "docs/审核记录/审核任务-Qoder-T07-前端视觉改版.md",
+        "SHA256": "DFB4D31A7F7A9720B559CCAF4176E0175CBA076D52AFC7680C1351893F7FAACD"
+      },
+      {
+        "原路径": "docs/审核任务-Qoder-T07-前端视觉改版第四轮.md",
+        "现路径": "docs/审核记录/审核任务-Qoder-T07-前端视觉改版第四轮.md",
+        "SHA256": "1D129711833A3197B7764ACE399BB1F6F7254067D954EE34B7E26507EFE5EF0C"
+      },
+      {
+        "原路径": "docs/审核任务-Qoder-T07-前端视觉改版第五轮.md",
+        "现路径": "docs/审核记录/审核任务-Qoder-T07-前端视觉改版第五轮.md",
+        "SHA256": "4452FDE3ACBC73E5E50927B549173D974576C53CE110832B99F9210037A7AA7F"
+      },
+      {
+        "原路径": "docs/审核任务-Qoder-T07-前端视觉改版第六轮.md",
+        "现路径": "docs/审核记录/审核任务-Qoder-T07-前端视觉改版第六轮.md",
+        "SHA256": "B31AFC4DA7B4644E904156C77B619CF1BBCFB390647FA56805F158B81D86D839"
+      },
+      {
+        "原路径": "docs/审核意见-Qoder-T07-前端视觉改版.md",
+        "现路径": "docs/审核记录/审核意见-Qoder-T07-前端视觉改版.md",
+        "SHA256": "81EBDC41AD31204E4747B94B07EAFC15F0C919685A4A362549DF793B055878A2"
+      },
+      {
+        "原路径": "docs/审核意见-Qoder-T06第一轮.md",
+        "现路径": "docs/审核记录/审核意见-Qoder-T06第一轮.md",
+        "SHA256": "3D431403D753396ED9BA5785A71A8446EE08F128C2673E3060874FF26D76B035"
+      },
+      {
+        "原路径": "docs/审核意见-Qoder-T06第二轮.md",
+        "现路径": "docs/审核记录/审核意见-Qoder-T06第二轮.md",
+        "SHA256": "B3973F80AD25C52D0C9CEC78B619084048FDACCA3B9EE3C5D6B21AC02D21CAEF"
+      },
+      {
+        "原路径": "docs/审核意见-Qoder-T06第三轮.md",
+        "现路径": "docs/审核记录/审核意见-Qoder-T06第三轮.md",
+        "SHA256": "4737D083AA4D7D9FF41187F108C20239D4C36573AFD8EA74FCED67D39DECC773"
+      },
+      {
+        "原路径": "docs/审核意见-Qoder-T06第四轮.md",
+        "现路径": "docs/审核记录/审核意见-Qoder-T06第四轮.md",
+        "SHA256": "860A64DA29DC5BEF538ABB35C32406D119B3820A1C4D843DB36A48D10DB95147"
+      },
+      {
+        "原路径": "协作任务-DSH-T05校验.md",
+        "现路径": "docs/协作交付/协作任务-DSH-T05校验.md",
+        "SHA256": "799103AAAC89649F002C330042D64EFBFC2CFC5BBA0211B317B009CAD8C7F34F"
+      },
+      {
+        "原路径": "Qoder链路-给Codex.md",
+        "现路径": "docs/协作交付/Qoder链路-给Codex.md",
+        "SHA256": "FC8D1898D3A5EEF38076C5630B45084D8029F7532A3B79859C3AFF382576D7A0"
+      }
+    ]
+  },
+  "覆盖候选": {
+    "总数": 27,
+    "文件": [
+      {
+        "文件": "app\\api\\baselines.py",
+        "候选SHA256": "9F489973894BBA6DFBDACFCA7A03899AD41F965DD346C4AC0FC7EA5C66B07DAB",
+        "落地SHA256": "9F489973894BBA6DFBDACFCA7A03899AD41F965DD346C4AC0FC7EA5C66B07DAB"
+      },
+      {
+        "文件": "app\\api\\batches.py",
+        "候选SHA256": "25214C69FE2D98E0A8972D2C7337A55882F69E5708A337CB91327707F5BD84ED",
+        "落地SHA256": "25214C69FE2D98E0A8972D2C7337A55882F69E5708A337CB91327707F5BD84ED"
+      },
+      {
+        "文件": "app\\api\\projects.py",
+        "候选SHA256": "259449DDEF5A798433AA5D37E9160D45E426FE059193A60156EF01A24FB0ED6A",
+        "落地SHA256": "259449DDEF5A798433AA5D37E9160D45E426FE059193A60156EF01A24FB0ED6A"
+      },
+      {
+        "文件": "app\\api\\regressions.py",
+        "候选SHA256": "8B01A7D45E7D1C4D0E52228AF138D33D42159777ECE774ADB0E4F56814BFD438",
+        "落地SHA256": "8B01A7D45E7D1C4D0E52228AF138D33D42159777ECE774ADB0E4F56814BFD438"
+      },
+      {
+        "文件": "app\\api\\reports.py",
+        "候选SHA256": "ADE26484A26C4C0C362BF626F3B9024B65F7DDBE4031FD64CD0F62159CC9F426",
+        "落地SHA256": "ADE26484A26C4C0C362BF626F3B9024B65F7DDBE4031FD64CD0F62159CC9F426"
+      },
+      {
+        "文件": "app\\main.py",
+        "候选SHA256": "C6A1C9E00C218637FCD45EB8937FDBB5A591A449DA4F055DA4A1522FA774DA05",
+        "落地SHA256": "C6A1C9E00C218637FCD45EB8937FDBB5A591A449DA4F055DA4A1522FA774DA05"
+      },
+      {
+        "文件": "app\\model\\errors.py",
+        "候选SHA256": "A88B93C38133A8BF83167DB3589673FCB9D549B27E393480631213402DDE9A9B",
+        "落地SHA256": "A88B93C38133A8BF83167DB3589673FCB9D549B27E393480631213402DDE9A9B"
+      },
+      {
+        "文件": "app\\repository\\sqlite.py",
+        "候选SHA256": "136C778E87CE42EA0B99B9AE152A026118923AE4E350FA9E044EA1464E7B3AE6",
+        "落地SHA256": "136C778E87CE42EA0B99B9AE152A026118923AE4E350FA9E044EA1464E7B3AE6"
+      },
+      {
+        "文件": "app\\service\\baselines.py",
+        "候选SHA256": "D228290CD34B6EB3CE5C9C88162FBEA5E3CD1F71C2779063323922F679E34EE1",
+        "落地SHA256": "D228290CD34B6EB3CE5C9C88162FBEA5E3CD1F71C2779063323922F679E34EE1"
+      },
+      {
+        "文件": "app\\service\\case_ids.py",
+        "候选SHA256": "C5FFE2D0626C8540BACDEAD72A53C775EA6E03558A62950F216110A93C84BB62",
+        "落地SHA256": "C5FFE2D0626C8540BACDEAD72A53C775EA6E03558A62950F216110A93C84BB62"
+      },
+      {
+        "文件": "app\\service\\imports.py",
+        "候选SHA256": "35CEC6F4EB7B6358B67D1AD88549EA2D248360ED3D341464ECE79571D4E2555C",
+        "落地SHA256": "35CEC6F4EB7B6358B67D1AD88549EA2D248360ED3D341464ECE79571D4E2555C"
+      },
+      {
+        "文件": "app\\service\\qualification.py",
+        "候选SHA256": "C59E3899CAE6424331F35DAEE54593C5E9B99A30EDA0725CDD19E59BED2441C7",
+        "落地SHA256": "C59E3899CAE6424331F35DAEE54593C5E9B99A30EDA0725CDD19E59BED2441C7"
+      },
+      {
+        "文件": "app\\service\\regressions.py",
+        "候选SHA256": "47EEAF8FDA46E1F41B4463D7533933A623D8E690F66C22E412B9F6A5FD2A640B",
+        "落地SHA256": "47EEAF8FDA46E1F41B4463D7533933A623D8E690F66C22E412B9F6A5FD2A640B"
+      },
+      {
+        "文件": "app\\service\\reports.py",
+        "候选SHA256": "9F015259E79C0371D8712309F719B997FF17F0ED6AE9BC49B2766F95ACBD3CFB",
+        "落地SHA256": "9F015259E79C0371D8712309F719B997FF17F0ED6AE9BC49B2766F95ACBD3CFB"
+      },
+      {
+        "文件": "app\\service\\rules.py",
+        "候选SHA256": "746EFDD23594D0D3B9977FF44FDDAB3DDF970E0D69CEB4C7ED1C23EF8B4431BC",
+        "落地SHA256": "746EFDD23594D0D3B9977FF44FDDAB3DDF970E0D69CEB4C7ED1C23EF8B4431BC"
+      },
+      {
+        "文件": "docs\\前端视觉改版记录.md",
+        "候选SHA256": "0C62E982A38CD29867C8E56E379B61A6356B39CC69CEA93DCC02A18686F68CD6",
+        "落地SHA256": "0C62E982A38CD29867C8E56E379B61A6356B39CC69CEA93DCC02A18686F68CD6"
+      },
+      {
+        "文件": "docs\\文档索引.md",
+        "候选SHA256": "D26489231E88EF140BEF6887F08092EBF8B55355F0DADEDBF3F91FD200F441CD",
+        "落地SHA256": "97C722E98A29CC159708505040FAFC420182A79AB1F6839E06DBFFBDD353D910"
+      },
+      {
+        "文件": "docs\\验收记录.md",
+        "候选SHA256": "28C9484018ED69163CC9E9C15766B22FBCB2650FACFE65E1FA855D5316C5B4C0",
+        "落地SHA256": "28C9484018ED69163CC9E9C15766B22FBCB2650FACFE65E1FA855D5316C5B4C0"
+      },
+      {
+        "文件": "HANDOFF.md",
+        "候选SHA256": "FC42C726E245CA63595F43A25356DFF49FA4FDAE56D6ED4A5A6F54E6F2500C23",
+        "落地SHA256": "E130626F56AAAADE3EBF2ABF0E9149AC20CE90A202DD912CE357E4646DB455FD"
+      },
+      {
+        "文件": "README.md",
+        "候选SHA256": "1410C943919860EB9C47EF370A05A9A834C67C5F5892E8710649A9152F04A2F6",
+        "落地SHA256": "246CC3646637F973C8C2373EBA87717796E403E54A4DA830699757C3A4A3AB20"
+      },
+      {
+        "文件": "scripts\\核验数据库.py",
+        "候选SHA256": "F19D323B06A590539CD75C98954B5DFC380F15BC9E18EB7D33BD6D23EE5E294C",
+        "落地SHA256": "F19D323B06A590539CD75C98954B5DFC380F15BC9E18EB7D33BD6D23EE5E294C"
+      },
+      {
+        "文件": "web\\playwright.config.ts",
+        "候选SHA256": "42B7807E3CC5611EE819E1C1BBC4CB241841675C1C83136217FB3A4107F5B392",
+        "落地SHA256": "42B7807E3CC5611EE819E1C1BBC4CB241841675C1C83136217FB3A4107F5B392"
+      },
+      {
+        "文件": "web\\src\\api\\http.ts",
+        "候选SHA256": "0A1CA8DF5B937EECA5E9D167EC96CC933DD08776CE63A56069383B2845DA0B90",
+        "落地SHA256": "0A1CA8DF5B937EECA5E9D167EC96CC933DD08776CE63A56069383B2845DA0B90"
+      },
+      {
+        "文件": "web\\src\\App.tsx",
+        "候选SHA256": "F490956E0188E32C4C64BE4411D0900CCCC71AC898E01E7315080F55CF2EF61B",
+        "落地SHA256": "F490956E0188E32C4C64BE4411D0900CCCC71AC898E01E7315080F55CF2EF61B"
+      },
+      {
+        "文件": "web\\src\\caseId.ts",
+        "候选SHA256": "A78DA6A07450F9888973CA7F649663192BAD3C5087FD06D54D9942980FC0E40B",
+        "落地SHA256": "A78DA6A07450F9888973CA7F649663192BAD3C5087FD06D54D9942980FC0E40B"
+      },
+      {
+        "文件": "web\\src\\main.tsx",
+        "候选SHA256": "5C742E108C0ED70CFD7ABA56DC1588B8D3C61A6932C0743C85EB1E72F8360B88",
+        "落地SHA256": "5C742E108C0ED70CFD7ABA56DC1588B8D3C61A6932C0743C85EB1E72F8360B88"
+      },
+      {
+        "文件": "web\\vite.config.ts",
+        "候选SHA256": "243784D1ABDF4D498D41A54DC59B6D9B12CB72361F83706DE998F680C8F2B7CE",
+        "落地SHA256": "243784D1ABDF4D498D41A54DC59B6D9B12CB72361F83706DE998F680C8F2B7CE"
+      }
+    ]
+  },
+  "新增映射文件": "docs/协作交付/整理-20260929/草稿/整理映射.json（保留在任务目录，不另复制）",
+  "落地后协调器修订": "协调器落地后更新了 README.md、HANDOFF.md 与 docs/文档索引.md 的实际状态说明；候选SHA保留冻结值，落地SHA记录最终文件。",
+  "静态核验": {
+    "Python候选": 16,
+    "PythonAST一致": 16,
+    "前端候选": 6,
+    "前端AST一致": 6,
+    "Markdown本地链接断链": 0,
+    "测试构建服务": "未运行"
+  },
+  "HANDOFF忽略规则": ".gitignore:2:/HANDOFF.md",
+  "回退备份": {
+    "路径": "docs/辅助项目整理/20260930-落地前备份.zip",
+    "SHA256": "40A12892E541216E08F0314A1169139786A7D0F65100C4C69CD97588D2CEC823",
+    "覆盖前文件数": 26
+  }
+}

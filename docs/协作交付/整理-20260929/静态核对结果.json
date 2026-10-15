@@ -1,0 +1,72 @@
+{
+  "快照文件数": 611,
+  "原文件变化": [],
+  "映射问题": [],
+  "代码核对": [
+    {
+      "文件": "app\\api\\baselines.py",
+      "忽略文档字符串后语法树相同": true
+    },
+    {
+      "文件": "app\\api\\batches.py",
+      "忽略文档字符串后语法树相同": true
+    },
+    {
+      "文件": "app\\api\\projects.py",
+      "忽略文档字符串后语法树相同": true
+    },
+    {
+      "文件": "app\\api\\regressions.py",
+      "忽略文档字符串后语法树相同": true
+    },
+    {
+      "文件": "app\\api\\reports.py",
+      "忽略文档字符串后语法树相同": true
+    },
+    {
+      "文件": "app\\main.py",
+      "忽略文档字符串后语法树相同": true
+    },
+    {
+      "文件": "app\\model\\errors.py",
+      "忽略文档字符串后语法树相同": true
+    },
+    {
+      "文件": "app\\repository\\sqlite.py",
+      "忽略文档字符串后语法树相同": true
+    },
+    {
+      "文件": "app\\service\\baselines.py",
+      "忽略文档字符串后语法树相同": true
+    },
+    {
+      "文件": "app\\service\\case_ids.py",
+      "忽略文档字符串后语法树相同": true
+    },
+    {
+      "文件": "app\\service\\imports.py",
+      "忽略文档字符串后语法树相同": true
+    },
+    {
+      "文件": "app\\service\\qualification.py",
+      "忽略文档字符串后语法树相同": true
+    },
+    {
+      "文件": "app\\service\\regressions.py",
+      "忽略文档字符串后语法树相同": true
+    },
+    {
+      "文件": "app\\service\\reports.py",
+      "忽略文档字符串后语法树相同": true
+    },
+    {
+      "文件": "app\\service\\rules.py",
+      "忽略文档字符串后语法树相同": true
+    },
+    {
+      "文件": "scripts\\核验数据库.py",
+      "忽略文档字符串后语法树相同": true
+    }
+  ],
+  "移动条数": 78
+}

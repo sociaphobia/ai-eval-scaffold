@@ -1,0 +1,26 @@
+[
+  {
+    "文件": "web\\playwright.config.ts",
+    "忽略注释与位置后语法树相同": true
+  },
+  {
+    "文件": "web\\src\\api\\http.ts",
+    "忽略注释与位置后语法树相同": true
+  },
+  {
+    "文件": "web\\src\\App.tsx",
+    "忽略注释与位置后语法树相同": true
+  },
+  {
+    "文件": "web\\src\\caseId.ts",
+    "忽略注释与位置后语法树相同": true
+  },
+  {
+    "文件": "web\\src\\main.tsx",
+    "忽略注释与位置后语法树相同": true
+  },
+  {
+    "文件": "web\\vite.config.ts",
+    "忽略注释与位置后语法树相同": true
+  }
+]

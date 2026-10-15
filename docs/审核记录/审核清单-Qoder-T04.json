@@ -1,0 +1,54 @@
+[
+  {
+    "路径": "架构设计.md",
+    "SHA256": "22fef528d4ab920e926748bc5a0b32ed0058d6b47a3086b82a5d05e43aec087c"
+  },
+  {
+    "路径": "app/main.py",
+    "SHA256": "c78fb9ccb061dd5e1f6d24356c4245bbcf0ebdb1fe9d8cca0951e531c36f9be5"
+  },
+  {
+    "路径": "app/repository/sqlite.py",
+    "SHA256": "f8a095b4ffd2c6df93ff19ef304586b12f31474fa45921c09d20623aed5145a5"
+  },
+  {
+    "路径": "app/service/imports.py",
+    "SHA256": "00fdd0f9c60977cdc668f9ad1fa6dba9cc56838900d17fef544ef869f2c66272"
+  },
+  {
+    "路径": "app/service/baselines.py",
+    "SHA256": "842ae21c6aa5d7a101ecbdec688baf9125404f91895a2408ee6970e8c1a710f3"
+  },
+  {
+    "路径": "app/service/regressions.py",
+    "SHA256": "d03ba1ef03ecfe545ea7cfd446b3377d528b04bf2babc1ce12c40fa20248558f"
+  },
+  {
+    "路径": "app/service/reports.py",
+    "SHA256": "98676a5130b0f0acc9d6bbf887eeb72df06ece4757ab7f45e5b2c8477ac68808"
+  },
+  {
+    "路径": "app/api/regressions.py",
+    "SHA256": "a73e4027eabd8bce2a44aa20858623c6fa7ce54165bd875485b89c518315b464"
+  },
+  {
+    "路径": "app/api/reports.py",
+    "SHA256": "e2dada9c128bfe28c5ef15fd367a5be7112acbc409a2034e702f203965b498cd"
+  },
+  {
+    "路径": "tests/test_regressions.py",
+    "SHA256": "600b18ff79144dc713ce3e0b91d487d522aec396f38204b10fea03c1701cd544"
+  },
+  {
+    "路径": "tests/test_reports.py",
+    "SHA256": "05608b494a6017e50281b067d441c422286b834872d8af0804837b75defd5159"
+  },
+  {
+    "路径": "tests/test_baselines.py",
+    "SHA256": "59c026f4ac8e656ec49c53bdc6a3b403403853ce2bb1f1908c04247c8cd23807"
+  },
+  {
+    "路径": "tests/test_qualification.py",
+    "SHA256": "79b9af3b87debed011c2d7b448e8529a75e4362b9cc5067a1ebfd17d53268af5"
+  }
+]
